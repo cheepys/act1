@@ -1,52 +1,70 @@
-2017-09-30T07:43:01.287Z - normal: Load ~/.CocosCreator/settings.json
-2017-09-30T07:43:01.292Z - normal: checking language setting...
-2017-09-30T07:43:01.293Z - normal: Language: en
-2017-09-30T07:43:03.162Z - success: protocol editor-framework registered
-2017-09-30T07:43:03.163Z - success: protocol app registered
-2017-09-30T07:43:03.163Z - success: protocol theme registered
-2017-09-30T07:43:03.163Z - success: protocol profile registered
-2017-09-30T07:43:03.163Z - success: protocol packages registered
-2017-09-30T07:43:03.164Z - success: protocol unpack registerred
-2017-09-30T07:43:03.164Z - success: protocol disable-commonjs registerred
-2017-09-30T07:43:03.521Z - normal: connected!
-2017-09-30T07:43:03.523Z - normal: Check project C:\Users\student\Desktop\act1
-2017-09-30T07:43:03.525Z - normal: Initializing Cocos2d
-2017-09-30T07:43:03.761Z - normal: Initializing Asset Database
-2017-09-30T07:43:03.801Z - success: protocol uuid registerred
-2017-09-30T07:43:03.801Z - success: protocol db registerred
-2017-09-30T07:43:03.801Z - success: protocol thumbnail registerred
-2017-09-30T07:43:03.801Z - normal: Loading editor/builtin packages
-2017-09-30T07:43:03.821Z - success: anysdk loaded
-2017-09-30T07:43:03.980Z - success: assets loaded
-2017-09-30T07:43:03.985Z - success: builder loaded
-2017-09-30T07:43:03.990Z - success: hierarchy loaded
-2017-09-30T07:43:03.996Z - success: inspector loaded
-2017-09-30T07:43:04.004Z - success: keystore loaded
-2017-09-30T07:43:04.004Z - success: node-library loaded
-2017-09-30T07:43:04.004Z - success: package-asset loaded
-2017-09-30T07:43:04.014Z - success: preferences loaded
-2017-09-30T07:43:04.014Z - success: project-exporter loaded
-2017-09-30T07:43:04.034Z - success: project-importer loaded
-2017-09-30T07:43:04.034Z - success: project-settings loaded
-2017-09-30T07:43:04.034Z - success: ui-kit loaded
-2017-09-30T07:43:04.034Z - success: ui-grid loaded
-2017-09-30T07:43:04.044Z - success: scene loaded
-2017-09-30T07:43:04.044Z - success: sprite-editor loaded
-2017-09-30T07:43:04.044Z - success: store loaded
-2017-09-30T07:43:04.054Z - success: timeline loaded
-2017-09-30T07:43:04.054Z - normal: Loading builtin packages
-2017-09-30T07:43:04.054Z - success: asset-db-debugger loaded
-2017-09-30T07:43:04.054Z - success: color-picker loaded
-2017-09-30T07:43:04.064Z - success: console loaded
-2017-09-30T07:43:04.064Z - success: package-manager loaded
-2017-09-30T07:43:04.064Z - success: sdkbox loaded
-2017-09-30T07:43:04.074Z - success: tester loaded
-2017-09-30T07:43:04.074Z - success: ui-kit-preview-extra loaded
-2017-09-30T07:43:04.074Z - success: ui-kit-preview loaded
-2017-09-30T07:43:04.074Z - success: ui-tree loaded
-2017-09-30T07:43:05.144Z - normal: Initializing project C:\Users\student\Desktop\act1
-2017-09-30T07:43:05.157Z - normal: Loading packages
-2017-09-30T07:43:05.163Z - normal: Watching packages
-2017-09-30T07:43:05.179Z - normal: Run Application
-2017-09-30T07:43:05.571Z - success: preview server running at http://localhost:7457
-2017-09-30T07:43:16.251Z - normal: 1.6.1
+2017-10-07T05:42:58.404Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-07T05:42:58.409Z - normal: checking language setting...
+2017-10-07T05:42:58.409Z - normal: Language: en
+2017-10-07T05:43:05.584Z - success: protocol editor-framework registered
+2017-10-07T05:43:05.585Z - success: protocol app registered
+2017-10-07T05:43:05.585Z - success: protocol theme registered
+2017-10-07T05:43:05.585Z - success: protocol profile registered
+2017-10-07T05:43:05.585Z - success: protocol packages registered
+2017-10-07T05:43:05.585Z - success: protocol unpack registerred
+2017-10-07T05:43:05.586Z - success: protocol disable-commonjs registerred
+2017-10-07T05:43:05.919Z - normal: connected!
+2017-10-07T05:43:05.923Z - normal: Check project C:\Users\student\Desktop\act1
+2017-10-07T05:43:05.926Z - normal: Initializing Cocos2d
+2017-10-07T05:43:09.881Z - normal: Initializing Asset Database
+2017-10-07T05:43:09.959Z - success: protocol uuid registerred
+2017-10-07T05:43:09.959Z - success: protocol db registerred
+2017-10-07T05:43:09.959Z - success: protocol thumbnail registerred
+2017-10-07T05:43:09.960Z - normal: Loading editor/builtin packages
+2017-10-07T05:43:10.072Z - success: anysdk loaded
+2017-10-07T05:43:10.253Z - success: assets loaded
+2017-10-07T05:43:10.256Z - success: builder loaded
+2017-10-07T05:43:10.277Z - success: hierarchy loaded
+2017-10-07T05:43:10.281Z - success: inspector loaded
+2017-10-07T05:43:10.282Z - success: keystore loaded
+2017-10-07T05:43:10.285Z - success: node-library loaded
+2017-10-07T05:43:10.287Z - success: package-asset loaded
+2017-10-07T05:43:10.290Z - success: preferences loaded
+2017-10-07T05:43:10.292Z - success: project-exporter loaded
+2017-10-07T05:43:10.312Z - success: project-importer loaded
+2017-10-07T05:43:10.314Z - success: project-settings loaded
+2017-10-07T05:43:10.316Z - success: ui-kit loaded
+2017-10-07T05:43:10.320Z - success: ui-grid loaded
+2017-10-07T05:43:10.324Z - success: scene loaded
+2017-10-07T05:43:10.326Z - success: sprite-editor loaded
+2017-10-07T05:43:10.329Z - success: store loaded
+2017-10-07T05:43:10.334Z - success: timeline loaded
+2017-10-07T05:43:10.335Z - normal: Loading builtin packages
+2017-10-07T05:43:10.343Z - success: asset-db-debugger loaded
+2017-10-07T05:43:10.344Z - success: color-picker loaded
+2017-10-07T05:43:10.348Z - success: console loaded
+2017-10-07T05:43:10.350Z - success: package-manager loaded
+2017-10-07T05:43:10.354Z - success: sdkbox loaded
+2017-10-07T05:43:10.357Z - success: tester loaded
+2017-10-07T05:43:10.360Z - success: ui-kit-preview-extra loaded
+2017-10-07T05:43:10.362Z - success: ui-kit-preview loaded
+2017-10-07T05:43:10.364Z - success: ui-tree loaded
+2017-10-07T05:43:12.194Z - normal: Initializing project C:\Users\student\Desktop\act1
+2017-10-07T05:43:12.227Z - normal: Loading packages
+2017-10-07T05:43:12.232Z - normal: Watching packages
+2017-10-07T05:43:12.260Z - normal: Run Application
+2017-10-07T05:43:17.889Z - success: preview server running at http://localhost:7456
+2017-10-07T05:43:30.022Z - normal: 1.6.1
+2017-10-07T06:40:56.556Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\student\Desktop\act1\assets\scripts\ball.js, message: Compile error: SyntaxError: C:/Users/student/Desktop/act1/assets/scripts/ball.js: Unexpected token, expected ( (87:6)
+  85 |             this.xSpeed += this.acceleration *5 *dt;
+  86 | 			
+> 87 | 			if this.node.x >= (this.width+this.ballSize)) this.xSpeed = 0;
+     | 			   ^
+  88 |         } else {
+  89 | 			this.xSpeed = 0;
+  90 | 		}
+    at Parser.pp$5.raise (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseParenExpression (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3788:8)
+    at Parser.pp$1.parseIfStatement (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2058:20)
+    at Parser.pp$1.parseStatement (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$1.parseStatement (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1868:19)
+    at Parser.pp$1.parseIfStatement (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2059:26)
